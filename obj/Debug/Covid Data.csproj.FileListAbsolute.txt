@@ -1,0 +1,65 @@
+C:\Users\Adrian\Desktop\FinalProject\Covid Data\bin\Debug\Covid Data.exe.config
+C:\Users\Adrian\Desktop\FinalProject\Covid Data\bin\Debug\Covid Data.exe
+C:\Users\Adrian\Desktop\FinalProject\Covid Data\bin\Debug\Covid Data.pdb
+C:\Users\Adrian\Desktop\FinalProject\Covid Data\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Adrian\Desktop\FinalProject\Covid Data\obj\Debug\Covid Data.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\FinalProject\Covid Data\obj\Debug\Covid_Data.Forms.Login_Forms.MainLoginForm.resources
+C:\Users\Adrian\Desktop\FinalProject\Covid Data\obj\Debug\Covid_Data.Properties.Resources.resources
+C:\Users\Adrian\Desktop\FinalProject\Covid Data\obj\Debug\Covid Data.csproj.GenerateResource.cache
+C:\Users\Adrian\Desktop\FinalProject\Covid Data\obj\Debug\Covid Data.csproj.CopyComplete
+C:\Users\Adrian\Desktop\FinalProject\Covid Data\obj\Debug\Covid Data.exe
+C:\Users\Adrian\Desktop\FinalProject\Covid Data\obj\Debug\Covid Data.pdb
+C:\Users\Adrian\Desktop\FinalProject\Covid Data\bin\Debug\MetroFramework.Design.dll
+C:\Users\Adrian\Desktop\FinalProject\Covid Data\bin\Debug\MetroFramework.dll
+C:\Users\Adrian\Desktop\FinalProject\Covid Data\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Adrian\Desktop\FinalProject\Covid Data\obj\Debug\Covid_Data.Forms.Login_Forms.LoginForm.resources
+C:\Users\Adrian\Desktop\FinalProject\Covid Data\obj\Debug\Covid_Data.Forms.Login_Forms.CreateAccountForm.resources
+C:\Users\Adrian\Desktop\FinalProject\Covid Data\obj\Debug\Covid_Data.Forms.Login_Forms.HomeForm.resources
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\bin\Debug\Covid Data.exe.config
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\bin\Debug\Covid Data.exe
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\bin\Debug\Covid Data.pdb
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\bin\Debug\MetroFramework.Design.dll
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\bin\Debug\MetroFramework.dll
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\obj\Debug\Covid_Data.Forms.Login_Forms.CreateAccountForm.resources
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\obj\Debug\Covid_Data.Forms.Login_Forms.HomeForm.resources
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\obj\Debug\Covid_Data.Forms.Login_Forms.LoginForm.resources
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\obj\Debug\Covid_Data.Forms.Login_Forms.MainLoginForm.resources
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\obj\Debug\Covid_Data.Forms.MainForms.MainWindow.resources
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\obj\Debug\Covid_Data.Properties.Resources.resources
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\obj\Debug\Covid Data.csproj.GenerateResource.cache
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\obj\Debug\Covid Data.csproj.CopyComplete
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\obj\Debug\Covid Data.exe
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\obj\Debug\Covid Data.pdb
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\obj\Debug\Covid Data.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\obj\Debug\Covid_Data.Forms.Login_Forms.InformationForms.MainIformationForm.resources
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\obj\Debug\Covid_Data.Forms.MainForms.InformationForms.WebBrowserForm.resources
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\obj\Debug\Covid_Data.Forms.MainForms.GeoChartFrom.resources
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\obj\Debug\Covid_Data.Forms.MessageBoxes.LackOfConnectionMessageBox.resources
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\bin\Debug\LiveCharts.dll
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\bin\Debug\LiveCharts.pdb
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\bin\Debug\LiveCharts.xml
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\bin\Debug\World.xml
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\obj\Debug\Covid_Data.Forms.MainForms.InformationForms.ServerDataShowForm.resources
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\bin\Debug\EPPlus.dll
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\bin\Debug\EPPlus.xml
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\obj\Debug\Covid_Data.Forms.MainForms.ExcelExportForm.resources
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\obj\Debug\Covid_Data.Forms.MainForms.YesterdaySituationForm.resources
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\bin\Debug\EntityFramework.dll
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\bin\Debug\EntityFramework.xml
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\obj\Debug\Covid_Data.Forms.MainForms.PolandDataForm.resources
+C:\Users\Adrian\Desktop\Covid19\FinalProject\Covid Data\obj\Debug\Covid_Data.Forms.MessageBoxes.OneDayForm.resources
